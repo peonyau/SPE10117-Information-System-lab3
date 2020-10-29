@@ -14,11 +14,12 @@ Ordered
 2. Consectetur adipiscing elit
 3. Integer molestie lorem at massa
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+Answer of Q.11
+| example of firms| business process |
+| --------------- | ---------------- |
+| traval          | agent billing, leave management process|
+| advertising     | cost reviewing, customer estimating|
+| banking         | credit check process, customer onboarding process |
 
 Right aligned columns
 
