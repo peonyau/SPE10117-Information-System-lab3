@@ -1,12 +1,3 @@
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
 
 Ordered
 
@@ -20,6 +11,16 @@ Answer of Q.11
 | traval          | agent billing, leave management process|
 | advertising     | cost reviewing, customer estimating|
 | banking         | credit check process, customer onboarding process |
+
+Unordered
+
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
 
 Right aligned columns
 
