@@ -1,9 +1,11 @@
 
 Ordered
 
+Answer of part 1
 1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
+2. Ecommerce logisticsCyber physical systemSynchronizationCase studies
 3. Integer molestie lorem at massa
+
 
 Answer of Q.11
 | example of firms| business process |
