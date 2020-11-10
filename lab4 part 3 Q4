@@ -1,0 +1,22 @@
+import sys
+
+NUM=0
+LOOP=0
+x=0
+
+number=input('Please input a positive number.')
+print(number)
+
+NUM=number
+
+if(NUM==2):
+ print(NUM,' is a prime number.')
+elif((NUM%2)==0):
+ print(NUM,' is not a prime number.')
+ for LOOP in range(3, sqrt(NUM)):
+  if((NUM%LOOP)==0):
+   print(NUM,' is not a prime number.')
+else:
+ print(NUM,' is a prime number.')
+   
+exit()
