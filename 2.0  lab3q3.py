@@ -17,3 +17,5 @@ x2 = (-b - math.sqrt(b*b- 4*a*c)) / (2*a)
 
 print(x1,x2)
 print('%.5f.10f'%(x1, x2))
+print('x1 is %.5f, x2 is 10f'%(x1, x2))
+
