@@ -1,0 +1,43 @@
+'''
+1.Read A, B, C
+
+2.1 if A > B
+        then max <- A
+        else max <- B
+
+2.2 if C > max
+        max <- C
+
+3.1 if A < B
+        then min <- A
+        else min <- B
+
+3.2 if C < min
+        min <- C
+
+4. output max, min
+'''
+# READ A,B,C
+A = int(input('Enter number A:')) # Read A 
+B = int(input('Enter number B:')) # Read B 
+C = int(input('Enter number C:')) # Read C
+'''
+if A > B:
+    max = A
+else:
+    max = B
+if C > max:
+    max = C
+if A < B:
+    min = A
+else:
+    min = B
+if C < min:
+    min = C
+'''
+list = []
+list.append(A) 
+list.append(B)
+list.append(C)
+max = max(list)
+min = min(list)
