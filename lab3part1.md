@@ -2,9 +2,11 @@
 Ordered
 
 Answer of part 1
-1. Lorem ipsum dolor sit amet
+1. In order to meet the rapid cross-border ecommerce developement, upgrading the ecommerce logistics is needed by using new technologies.To achieve logistics assets   virtualization, space saving and real-time control, cloud platform is used in most company since it is a multi-layer cyber physical system.
 2. Ecommerce logisticsCyber physical systemSynchronizationCase studies
-3. Integer molestie lorem at massa
+3. 
+4.
+5.
 
 
 Answer of Q.11
