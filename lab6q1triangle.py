@@ -1,0 +1,10 @@
+frame=Tk()
+canvas=Canvas(height=350,width=600)
+canvas.create_line(X1,Y1,X2,Y2)
+canvas.create_line(X2,Y2,X3,Y3)
+canvas.create_line(X3,Y3,X1,Y1)
+A=areaTrangle(X1,Y1,X2,Y2,X3,Y3)
+if A!=None:
+    canvas.create_text(100,100,text='Area of your triangle is'+str(A))
+canvas.pack()
+frame.mainloop()
